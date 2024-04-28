@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Charlin&#39;s blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-04-28T09:14:07.734Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Charlin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>✨Charlin&#39;s personal website</title>
+    <link href="http://example.com/2024/04/26/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E8%AF%9E%E7%94%9F/"/>
+    <id>http://example.com/2024/04/26/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E8%AF%9E%E7%94%9F/</id>
+    <published>2024-04-26T08:41:05.000Z</published>
+    <updated>2024-04-28T09:14:07.734Z</updated>
+    
+    <content type="html"><![CDATA[<p>##本人的个人网站诞生！在这里我会展示我的个人作品、知识分享以及一些生活碎片~😁</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;##本人的个人网站诞生！在这里我会展示我的个人作品、知识分享以及一些生活碎片~😁&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
