@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-04-28T09:14:07.734Z</updated>
+  <updated>2024-04-28T09:41:05.774Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>✨Charlin&#39;s personal website</title>
+    <title>文章1：✨Charlin&#39;s personal website</title>
     <link href="http://example.com/2024/04/26/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E8%AF%9E%E7%94%9F/"/>
     <id>http://example.com/2024/04/26/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E8%AF%9E%E7%94%9F/</id>
     <published>2024-04-26T08:41:05.000Z</published>
-    <updated>2024-04-28T09:14:07.734Z</updated>
+    <updated>2024-04-28T09:41:05.774Z</updated>
     
-    <content type="html"><![CDATA[<p>##本人的个人网站诞生！在这里我会展示我的个人作品、知识分享以及一些生活碎片~😁</p>]]></content>
+    <content type="html"><![CDATA[<p>本人的个人网站诞生！在这里我会展示我的个人作品、知识分享以及一些生活碎片~😁<br><img src="/images/%E8%A1%A8%E6%83%85%E5%8C%85.png" alt="表情包"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;##本人的个人网站诞生！在这里我会展示我的个人作品、知识分享以及一些生活碎片~😁&lt;/p&gt;
+    <summary type="html">&lt;p&gt;本人的个人网站诞生！在这里我会展示我的个人作品、知识分享以及一些生活碎片~😁&lt;br&gt;&lt;img src=&quot;/images/%E8%A1%A8%E6%83%85%E5%8C%85.png&quot; alt=&quot;表情包&quot;&gt;&lt;/p&gt;
 </summary>
       
     
