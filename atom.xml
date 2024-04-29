@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-04-28T09:41:05.774Z</updated>
+  <updated>2024-04-29T14:09:42.585Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>文章2：🤔逻辑运算及其电路设计</title>
+    <link href="http://example.com/2024/04/29/%E6%96%87%E7%AB%A02%EF%BC%9A%E9%80%BB%E8%BE%91%E8%BF%90%E7%AE%97%E5%8F%8A%E5%85%B6%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1/"/>
+    <id>http://example.com/2024/04/29/%E6%96%87%E7%AB%A02%EF%BC%9A%E9%80%BB%E8%BE%91%E8%BF%90%E7%AE%97%E5%8F%8A%E5%85%B6%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1/</id>
+    <published>2024-04-29T06:39:09.000Z</published>
+    <updated>2024-04-29T14:09:42.585Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>逻辑运算是计算机科学和数学中的一种重要概念，用于处理逻辑值（真或假）的操作。逻辑运算通常应用于布尔代数，涉及到逻辑值之间的关系和操作。以下是常见的逻辑运算：</p></blockquote><h2 id="四类逻辑运算："><a href="#四类逻辑运算：" class="headerlink" title="四类逻辑运算："></a>四类逻辑运算：</h2><h3 id="1-与运算（AND）"><a href="#1-与运算（AND）" class="headerlink" title="1.与运算（AND）"></a>1.与运算（AND）</h3><p>当所有操作数都为真时，结果为真；否则结果为假。通常用符号“&amp;&amp;”表示。</p><table><thead><tr><th>操作数1</th><th>操作数2</th><th>结果</th></tr></thead><tbody><tr><td>真</td><td>真</td><td>真</td></tr><tr><td>真</td><td>假</td><td>假</td></tr><tr><td>假</td><td>真</td><td>假</td></tr><tr><td>假</td><td>假</td><td>假</td></tr></tbody></table><h3 id="2-或运算（OR）"><a href="#2-或运算（OR）" class="headerlink" title="2.或运算（OR）"></a>2.或运算（OR）</h3><p>当至少有一个操作数为真时，结果为真；否则结果为假。通常用符号“||”表示。</p><table><thead><tr><th>操作数1</th><th>操作数2</th><th>结果</th></tr></thead><tbody><tr><td>真</td><td>真</td><td>真</td></tr><tr><td>真</td><td>假</td><td>真</td></tr><tr><td>假</td><td>真</td><td>真</td></tr><tr><td>假</td><td>假</td><td>假</td></tr></tbody></table><h3 id="3-非运算（NOT）"><a href="#3-非运算（NOT）" class="headerlink" title="3.非运算（NOT）"></a>3.非运算（NOT）</h3><p>将操作数的逻辑值取反。通常用符号“!”表示。</p><table><thead><tr><th>操作数</th><th>结果</th></tr></thead><tbody><tr><td>真</td><td>假</td></tr><tr><td>假</td><td>真</td></tr></tbody></table><h3 id="4-异或运算（XOR）"><a href="#4-异或运算（XOR）" class="headerlink" title="4.异或运算（XOR）"></a>4.异或运算（XOR）</h3><p>当操作数的逻辑值不相同时，结果为真；否则结果为假。通常用符号“^”表示。</p><table><thead><tr><th>操作数1</th><th>操作数2</th><th>结果</th></tr></thead><tbody><tr><td>真</td><td>真</td><td>假</td></tr><tr><td>真</td><td>假</td><td>真</td></tr><tr><td>假</td><td>真</td><td>真</td></tr><tr><td>假</td><td>假</td><td>假</td></tr></tbody></table><blockquote><p>这些逻辑运算是由英国数学家乔治·布尔（George Boole）于19世纪中叶提出，bool变量便是以该位数学家而命名。然而逻辑门（执行逻辑运算的电子元件）的发明却来到了20世纪中叶。</p></blockquote><h2 id="逻辑门的电路设计："><a href="#逻辑门的电路设计：" class="headerlink" title="逻辑门的电路设计："></a>逻辑门的电路设计：</h2><h3 id="1-与门（AND-gate）"><a href="#1-与门（AND-gate）" class="headerlink" title="1.与门（AND gate）"></a>1.与门（AND gate）</h3><p>与门的输出为真（1），当且仅当所有输入都为真（1）时，否则输出为假（0）。<br>电路设计中，可以使用晶体管的串联来实现与门。<br>下图是一个基本的两输入与门电路设计：<br><img src="/images/Post2/%E4%B8%8E%E9%97%A8.png" alt="Notgate"><br>其电路符号图为：<br><img src="/images/Post2/AND.png" alt="Notgate"></p><h3 id="2-或门（OR-gate）"><a href="#2-或门（OR-gate）" class="headerlink" title="2.或门（OR gate）"></a>2.或门（OR gate）</h3><p>或门的输出为真（1），当至少一个输入为真（1）时，否则输出为假（0）。<br>电路设计中，可以使用晶体管的并联来实现或门。<br>下图是一个基本的两输入或门电路设计：<br><img src="/images/Post2/%E6%88%96%E9%97%A8.png" alt="Notgate"><br>其电路符号图为：<br><img src="/images/Post2/OR.png" alt="Notgate"></p><h3 id="3-非门（NOT-gate）"><a href="#3-非门（NOT-gate）" class="headerlink" title="3.非门（NOT gate）"></a>3.非门（NOT gate）</h3><p>非门的输出为输入的反相，即当输入为真（1）时，输出为假（0）；当输入为假（0）时，输出为真（1）。电路设计中，可以使用一个晶体管来实现非门。<br>下图是一个基本的非门电路设计：<br><img src="/images/Post2/%E9%9D%9E%E9%97%A8.png" alt="Notgate"><br>其电路符号图为：<br><img src="/images/Post2/NOT.png" alt="Notgate"></p><h3 id="4-异或门（XOR-gate）"><a href="#4-异或门（XOR-gate）" class="headerlink" title="4.异或门（XOR gate）"></a>4.异或门（XOR gate）</h3><p>异或门的输出为真（1），当输入的两个信号相异时（一个为真一个为假），否则输出为假（0）。电路设计中，可以通过多个晶体管和逻辑门的组合来实现异或门。<br>下图是一个基本的两输入异或门电路设计：<br><img src="/images/Post2/%E5%BC%82%E6%88%96%E9%97%A8.png" alt="Notgate"><br>其电路符号图为：<br><img src="/images/Post2/XOR.png" alt="Notgate"></p><blockquote><p>以上便是文章的所有内容</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;逻辑运算是计算机科学和数学中的一种重要概念，用于处理逻辑值（真或假）的操作。逻辑运算通常应用于布尔代数，涉及到逻辑值之间的关系和操作。以下是常见的逻辑运算：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;四类逻辑运算：&quot;&gt;&lt;a href=&quot;#</summary>
+      
+    
+    
+    
+    <category term="奇奇怪怪的知识" scheme="http://example.com/categories/%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA%E7%9A%84%E7%9F%A5%E8%AF%86/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>文章1：✨Charlin&#39;s personal website</title>
