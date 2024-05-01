@@ -46,15 +46,18 @@
     <link href="http://example.com/2024/04/26/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E8%AF%9E%E7%94%9F/"/>
     <id>http://example.com/2024/04/26/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E8%AF%9E%E7%94%9F/</id>
     <published>2024-04-26T08:41:05.000Z</published>
-    <updated>2024-04-28T09:41:05.774Z</updated>
+    <updated>2024-05-01T03:43:58.039Z</updated>
     
-    <content type="html"><![CDATA[<p>本人的个人网站诞生！在这里我会展示我的个人作品、知识分享以及一些生活碎片~😁<br><img src="/images/%E8%A1%A8%E6%83%85%E5%8C%85.png" alt="表情包"></p>]]></content>
+    <content type="html"><![CDATA[<div style="text-align: center;">本人的个人网站诞生！在这里我会展示我的个人作品、知识分享以及一些生活碎片~😁</div><p><img src="/images/%E8%A1%A8%E6%83%85%E5%8C%85.png" alt="表情包"></p><div style="text-align: center;"><iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=409893543&bvid=BV19G411a7mr&cid=1372207423&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;本人的个人网站诞生！在这里我会展示我的个人作品、知识分享以及一些生活碎片~😁&lt;br&gt;&lt;img src=&quot;/images/%E8%A1%A8%E6%83%85%E5%8C%85.png&quot; alt=&quot;表情包&quot;&gt;&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;div style=&quot;text-align: center;&quot;&gt;
+本人的个人网站诞生！在这里我会展示我的个人作品、知识分享以及一些生活碎片~😁
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/%E8%A1%A8%E6%83%85%E5%8C%85.png&quot; alt=</summary>
       
     
     
