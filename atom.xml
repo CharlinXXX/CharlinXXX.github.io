@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-04-29T14:09:42.585Z</updated>
+  <updated>2024-05-13T15:56:39.287Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,73 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>UnityShader的尝试</title>
+    <link href="http://example.com/2024/05/13/UnityShader%E7%9A%84%E5%B0%9D%E8%AF%95/"/>
+    <id>http://example.com/2024/05/13/UnityShader%E7%9A%84%E5%B0%9D%E8%AF%95/</id>
+    <published>2024-05-13T13:09:15.000Z</published>
+    <updated>2024-05-13T15:56:39.287Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/Post4/untitled.png" alt="图"><br><img src="/images/Post4/%E9%92%A2%E7%90%B43.png" alt="图"><br><img src="/images/Post4/Push%EF%BC%9A%E9%98%BF%E6%A5%A0.png" alt="图"><br><img src="/images/Post4/%E8%B5%9B%E5%8D%9A%E9%B1%BC4.png" alt="图"><br><img src="/images/Post4/%E8%B5%9B%E5%8D%9A%E9%B1%BC%E9%92%A2%E9%93%81%E4%BE%A0%E9%85%8D%E8%89%B2.png" alt="图"><br><img src="/images/Post4/%E5%8F%8C%E6%B3%89.png" alt="图"><br><img src="/images/Post4/fan.png" alt="图"><br><img src="/images/Post4/%E5%92%96%E5%95%A1%E6%9D%AF3.png" alt="图"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/Post4/untitled.png&quot; alt=&quot;图&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/Post4/%E9%92%A2%E7%90%B43.png&quot; alt=&quot;图&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/Post4/Pu</summary>
+      
+    
+    
+    
+    <category term="成果展示" scheme="http://example.com/categories/%E6%88%90%E6%9E%9C%E5%B1%95%E7%A4%BA/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>玩Blender的一些成果</title>
+    <link href="http://example.com/2024/05/13/%E7%8E%A9Blender%E7%9A%84%E4%B8%80%E4%BA%9B%E6%88%90%E6%9E%9C/"/>
+    <id>http://example.com/2024/05/13/%E7%8E%A9Blender%E7%9A%84%E4%B8%80%E4%BA%9B%E6%88%90%E6%9E%9C/</id>
+    <published>2024-05-13T13:05:51.000Z</published>
+    <updated>2024-05-13T15:59:04.313Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/Post4/untitled.png" alt="图"><br><img src="/images/Post4/%E9%92%A2%E7%90%B43.png" alt="图"><br><img src="/images/Post4/%E6%9C%BA%E7%94%B2.png" alt="图"><br><img src="/images/Post4/%E8%B5%9B%E5%8D%9A%E9%B1%BC4.png" alt="图"><br><img src="/images/Post4/%E8%B5%9B%E5%8D%9A%E9%B1%BC%E9%92%A2%E9%93%81%E4%BE%A0%E9%85%8D%E8%89%B2.png" alt="图"><br><img src="/images/Post4/%E5%8F%8C%E6%B3%89.png" alt="图"><br><img src="/images/Post4/fan.png" alt="图"><br><img src="/images/Post4/%E5%92%96%E5%95%A1%E6%9D%AF3.png" alt="图"><br><img src="/images/Post4/Push%EF%BC%9A%E9%98%BF%E6%A5%A0.png" alt="图"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/Post4/untitled.png&quot; alt=&quot;图&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/Post4/%E9%92%A2%E7%90%B43.png&quot; alt=&quot;图&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/Post4/%E</summary>
+      
+    
+    
+    
+    <category term="成果展示" scheme="http://example.com/categories/%E6%88%90%E6%9E%9C%E5%B1%95%E7%A4%BA/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>游戏项目展示</title>
+    <link href="http://example.com/2024/05/13/%E6%B8%B8%E6%88%8F%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA/"/>
+    <id>http://example.com/2024/05/13/%E6%B8%B8%E6%88%8F%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA/</id>
+    <published>2024-05-13T13:04:35.000Z</published>
+    <updated>2024-05-13T15:33:11.192Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="荒岛之争"><a href="#荒岛之争" class="headerlink" title="荒岛之争"></a>荒岛之争</h2><blockquote><p>一款派对游戏，结合大逃杀玩法，轻松愉快的游玩体验~<br>使用的photon fusion的框架实现联机</p></blockquote><h3 id="视频展示"><a href="#视频展示" class="headerlink" title="视频展示"></a>视频展示</h3><div style="text-align: center;"><iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=785759409&bvid=BV1D14y1R7Fh&cid=1192270220&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><h2 id="Push！"><a href="#Push！" class="headerlink" title="Push！"></a>Push！</h2><blockquote><p>一款可自定义数值的格斗游戏,机制有趣玩法多样~</p></blockquote><h3 id="视频展示-1"><a href="#视频展示-1" class="headerlink" title="视频展示"></a>视频展示</h3><div style="text-align: center;"><iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1104346638&bvid=BV1Jw4m197UA&cid=1540970290&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><h2 id="小石年"><a href="#小石年" class="headerlink" title="小石年"></a>小石年</h2><blockquote><p>《小石年》是一款2D横板冒险益智解谜单机游戏。中国神话是国内宝贵的非物质文化遗产，是一个国家文明史的结晶。为打破当今社会人们对传统神话严肃的刻板印象与弘扬石器时代的中国文化，本项目以中国古代炎帝为当时社会做出的贡献为背景，在游戏中玩家扮演小石年，充分发挥自己的创造力，制作各种造福族人的工具。</p></blockquote><h3 id="视频展示-2"><a href="#视频展示-2" class="headerlink" title="视频展示"></a>视频展示</h3><div style="text-align: center;"><iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1204575459&bvid=BV1Pf42117sr&cid=1544128292&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><h2 id="水之旅"><a href="#水之旅" class="headerlink" title="水之旅"></a>水之旅</h2><blockquote><p>这是一款3D横板益智闯关的单机游戏。<br>玩家需要操控小水团，通过转变自身形态（即转变为固、液、气态）尽可能的减少自我损耗从而越过层层障碍，最终流进大海，实现水循环。</p></blockquote><h2 id="视频展示-3"><a href="#视频展示-3" class="headerlink" title="视频展示"></a>视频展示</h2><div style="text-align: center;"><iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1354683272&bvid=BV1Gz42127CW&cid=1544138852&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;荒岛之争&quot;&gt;&lt;a href=&quot;#荒岛之争&quot; class=&quot;headerlink&quot; title=&quot;荒岛之争&quot;&gt;&lt;/a&gt;荒岛之争&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;一款派对游戏，结合大逃杀玩法，轻松愉快的游玩体验~&lt;br&gt;使用的photon fusion的框架实</summary>
+      
+    
+    
+    
+    <category term="成果展示" scheme="http://example.com/categories/%E6%88%90%E6%9E%9C%E5%B1%95%E7%A4%BA/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>文章2：🤔逻辑运算及其电路设计</title>
