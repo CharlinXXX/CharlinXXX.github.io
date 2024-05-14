@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-05-14T10:56:20.451Z</updated>
+  <updated>2024-05-14T11:05:46.499Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,14 +21,15 @@
     <link href="http://example.com/2024/05/13/UnityShader%E7%9A%84%E5%B0%9D%E8%AF%95/"/>
     <id>http://example.com/2024/05/13/UnityShader%E7%9A%84%E5%B0%9D%E8%AF%95/</id>
     <published>2024-05-13T13:09:15.000Z</published>
-    <updated>2024-05-14T10:56:20.451Z</updated>
+    <updated>2024-05-14T11:05:46.499Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/images/Post5/%E7%94%B2%E5%A3%B3%E8%99%AB.gif" alt="图"><br><img src="/images/Post5/%E5%85%A8%E6%81%AF%E6%8A%95%E5%BD%B1.gif" alt="图"></p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>使用mapcap做的甲壳虫薄膜干涉效果，NDotV采样贴图的uv坐标<br><img src="/images/Post5/%E7%94%B2%E5%A3%B3%E8%99%AB.gif" alt="图"><br>边缘光＋动态y轴采样uv贴图<br><img src="/images/Post5/%E5%85%A8%E6%81%AF%E6%8A%95%E5%BD%B1.gif" alt="图"></p></blockquote>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/Post5/%E7%94%B2%E5%A3%B3%E8%99%AB.gif&quot; alt=&quot;图&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/Post5/%E5%85%A8%E6%81%AF%E6%8A%95%E5%BD%B1.gif&quot; al</summary>
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;使用mapcap做的甲壳虫薄膜干涉效果，NDotV采样贴图的uv坐标&lt;br&gt;&lt;img src=&quot;/images/Post5/%E7%94%B2%E5%A3%B3%E8%99%AB.gif&quot; alt=&quot;图&quot;&gt;&lt;br&gt;边缘光＋动态y轴采样uv贴图&lt;br</summary>
       
     
     
