@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-05-24T13:59:29.414Z</updated>
+  <updated>2024-06-03T10:13:46.464Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>用了一个星期手撸的俯视角射击游戏</title>
+    <link href="http://example.com/2024/06/03/%E7%94%A8%E4%BA%86%E4%B8%80%E4%B8%AA%E6%98%9F%E6%9C%9F%E6%89%8B%E6%92%B8%E7%9A%84%E4%BF%AF%E8%A7%86%E8%A7%92%E5%B0%84%E5%87%BB%E6%B8%B8%E6%88%8F/"/>
+    <id>http://example.com/2024/06/03/%E7%94%A8%E4%BA%86%E4%B8%80%E4%B8%AA%E6%98%9F%E6%9C%9F%E6%89%8B%E6%92%B8%E7%9A%84%E4%BF%AF%E8%A7%86%E8%A7%92%E5%B0%84%E5%87%BB%E6%B8%B8%E6%88%8F/</id>
+    <published>2024-06-03T08:16:14.000Z</published>
+    <updated>2024-06-03T10:13:46.464Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>这是一个俯视角射击游戏，玩家掌控超级士兵不断的杀戮并存活下去吧！</p></blockquote><h3 id="视频展示"><a href="#视频展示" class="headerlink" title="视频展示"></a>视频展示</h3><div style="text-align: center;"><iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=1855373823&bvid=BV1ys421g72d&cid=1570268888&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><h2 id="难点技术实现"><a href="#难点技术实现" class="headerlink" title="难点技术实现"></a>难点技术实现</h2><blockquote><ul><li>丧尸的群智能算法实现以及性能优化</li><li>射击检测的优化</li><li>Animation Rigging纠正动画实现垂直方向转动步<br>枪</li><li>优化对象池的查询速度</li></ul></blockquote><h3 id="丧尸的群智能算法"><a href="#丧尸的群智能算法" class="headerlink" title="丧尸的群智能算法"></a>丧尸的群智能算法</h3><p>使用Boid算法并在其基础上进行优化实现了避障和索敌功能，并使用了计算着色器GPU上并行计算优化了性能调度。为了进一步优化性能，使用了Unity的Job System</p><blockquote><p>优化前<br><img src="/images/Post6/%E4%BC%98%E5%8C%96%E5%89%8D.png" alt="Notgate"><br>200只丧尸120帧左右<br>优化后<br>数量差不多情况下高达200帧<br><img src="/images/Post6/%E4%BC%98%E5%8C%96%E5%90%8E.png" alt="Notgate"></p></blockquote><h3 id="射击检测的优化"><a href="#射击检测的优化" class="headerlink" title="射击检测的优化"></a>射击检测的优化</h3><p>使用射线代替传统的碰撞检测，虽然需要自己计算碰撞的时间和具体碰撞的对象相关逻辑，但很好了避免了子弹出现子弹碰撞检测失败的问题，并配合粒子系统实现了子弹轨道视觉优化</p><h3 id="实现垂直方向转动"><a href="#实现垂直方向转动" class="headerlink" title="实现垂直方向转动"></a>实现垂直方向转动</h3><p>在该游戏中与传统的俯视角割草游戏不同的地方在于玩家操作多了一个维度，玩家可以控制步枪垂直方向转动，射击爬行丧尸或者较近的丧尸。<br>实现思路：使用Animation Rigging以枪支作为主体，与传统的将枪绑在手上作为子物体不同。然后使用脚本控制枪支模拟晃动增加真实感。</p><h3 id="优化对象池的查询速度"><a href="#优化对象池的查询速度" class="headerlink" title="优化对象池的查询速度"></a>优化对象池的查询速度</h3><p>为对象池的每一个对象增加了一个hashCode的属性，然后在对象池中使用了字典以制作一个伪哈希表，大大提高了对象池列表的查询速度。</p><h2 id="框架UML"><a href="#框架UML" class="headerlink" title="框架UML"></a>框架UML</h2><blockquote><p>以下类图均为chatgpt转换为plantuml然后生成<br>player的大致类图<br><img src="/images/Post6/Player.png" alt="Notgate"><br>zomble的大致类图<br><img src="/images/Post6/Zomble.png" alt="Notgate"></p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;这是一个俯视角射击游戏，玩家掌控超级士兵不断的杀戮并存活下去吧！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;视频展示&quot;&gt;&lt;a href=&quot;#视频展示&quot; class=&quot;headerlink&quot; title=&quot;视频展示&quot;&gt;&lt;/a&gt;视频展示&lt;/h</summary>
+      
+    
+    
+    
+    <category term="成果展示" scheme="http://example.com/categories/%E6%88%90%E6%9E%9C%E5%B1%95%E7%A4%BA/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>C#中委托的用法及进阶</title>
