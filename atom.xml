@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-06-03T10:13:46.464Z</updated>
+  <updated>2024-11-22T04:39:44.176Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>重新开始写作</title>
+    <link href="http://example.com/2024/11/22/%E9%87%8D%E6%96%B0%E5%BC%80%E5%A7%8B%E5%86%99%E4%BD%9C/"/>
+    <id>http://example.com/2024/11/22/%E9%87%8D%E6%96%B0%E5%BC%80%E5%A7%8B%E5%86%99%E4%BD%9C/</id>
+    <published>2024-11-22T04:03:58.000Z</published>
+    <updated>2024-11-22T04:39:44.176Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="新玩具"><a href="#新玩具" class="headerlink" title="新玩具"></a>新玩具</h2><p>最近趁着双十一活动以原价直降1k的骨折价购入大疆的Action4。上手体验后感觉实比手机更便捷，是我更有记录的欲望。从以前的走在路上看到令人陶醉的夕阳，想去留存在相册时都要看看身边有没有人留意我举起手机拍照的i人行为，到现在大胆将运动相机挂在脖子上无惧他人目光的举措，我感觉我得到了进化😁。</p><blockquote><p>下面附上本人记录并剪辑的第一条Vlog~</p></blockquote><div style="text-align: center;"><iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=113501053916544&bvid=BV191UnYkE87&cid=26819496556&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><h2 id="开始记录学习Android开发"><a href="#开始记录学习Android开发" class="headerlink" title="开始记录学习Android开发"></a>开始记录学习Android开发</h2><p>最近看到我妈在用什么快手极速版赚钱。看她的手指机械式的滑动，每天浪费着时间就为了几块钱的回报，所以我打算制作一个脚本可以帮她自动处理中间无意义又繁琐的步骤。但还要做毕设和公司的项目，只能每天抽出那么一点时间来学习，但道阻且长，行则将至😄。 </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;新玩具&quot;&gt;&lt;a href=&quot;#新玩具&quot; class=&quot;headerlink&quot; title=&quot;新玩具&quot;&gt;&lt;/a&gt;新玩具&lt;/h2&gt;&lt;p&gt;最近趁着双十一活动以原价直降1k的骨折价购入大疆的Action4。上手体验后感觉实比手机更便捷，是我更有记录的欲望。从以前的走在路上</summary>
+      
+    
+    
+    
+    <category term="所思所想" scheme="http://example.com/categories/%E6%89%80%E6%80%9D%E6%89%80%E6%83%B3/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>用了一个星期手撸的俯视角射击游戏</title>
