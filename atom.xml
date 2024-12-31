@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-11-27T04:12:42.453Z</updated>
+  <updated>2024-12-31T15:59:30.897Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>人生的2024年答卷</title>
+    <link href="http://example.com/2024/12/31/%E4%BA%BA%E7%94%9F%E7%9A%842024%E5%B9%B4%E7%AD%94%E5%8D%B7/"/>
+    <id>http://example.com/2024/12/31/%E4%BA%BA%E7%94%9F%E7%9A%842024%E5%B9%B4%E7%AD%94%E5%8D%B7/</id>
+    <published>2024-12-31T15:47:36.000Z</published>
+    <updated>2024-12-31T15:59:30.897Z</updated>
+    
+    <content type="html"><![CDATA[<!-- 音频播放器开始 --><center><audio controls autoplay loop>  <source src="/music/background2024end.mp3" type="audio/mpeg">  您的浏览器不支持音频元素。</audio><center><!-- 音频播放器结束 -->]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;!-- 音频播放器开始 --&gt;
+&lt;center&gt;
+&lt;audio controls autoplay loop&gt;
+  &lt;source src=&quot;/music/background2024end.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+  您的浏览器不支持音频元素。
+&lt;/a</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>重新开始写作</title>
